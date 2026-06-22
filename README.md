@@ -2,6 +2,10 @@
 ## Project Objective
 The Vrinda Store wants to create an annual sales report for 2025. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2026 & 2027.
 
+## Dashboard
+
+![Screenshot (495)](https://github.com/ig-animesh/Excel-Dashboard/blob/main/Dashboard.jpeg)
+
 ## Dataset used
 - <a href="https://github.com/ig-animesh/Excel-Dashboard/blob/main/Vrinda%20Store%20Analysis.xlsx">Dataset</a>
 
@@ -23,10 +27,6 @@ The Vrinda Store wants to create an annual sales report for 2025. So that, the o
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
-
-## Dashboard
-
-![Screenshot (495)](https://github.com/ig-animesh/Excel-Dashboard/blob/main/Dashboard.jpeg)
 
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
